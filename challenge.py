@@ -67,4 +67,3 @@ result("Jack", jack_games)
 
 
 
-
